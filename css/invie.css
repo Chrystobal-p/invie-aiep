@@ -62,7 +62,7 @@ body {
     color: white;
     padding: 20px;
     background-repeat: no-repeat;
-    center: auto;
+    margin:auto;
 }
 
 .portada button {
